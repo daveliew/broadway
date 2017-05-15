@@ -1,7 +1,6 @@
 html{
   text-align: center;
   font-family: Helvetica, sans-serif;
-  background-image: url(/images/the-flatiron-building.png)
 }
 
 nav{
@@ -10,43 +9,43 @@ nav{
 }
 
 h1{
-  font-size: 70;
+  font-size: 70px;
   font-weight: bold;
   color: white;
 }
 
 h2{
-  font-size: 32;
+  font-size: 32px;
   font-weight: bold;
 }
 
 h3{
-  font-size: 23;
+  font-size: 23px;
   font-weight: bold;
 }
 
 p{
-  font-size: 14;
+  font-size: 14px;
 }
 
-.menu{
-  background-image: url(./images/the-flatiron-building.png)
+#menu{
+  background-image: url(../images/the-flatiron-building.png)
 }
 
 .newyork{
-  font-size: 23;
+  font-size: 23px;
   font-weight:bold;
   color: white;
+  background-image: url(../images/the-flatiron-building.png)
 }
 
-.landing_footer{
-  font-size: 11;
+.landing_footer,
+.landing_footer a{
   color: white;
   background-color: dimgray;
   text-align: left;
 }
 
-.landing_footer a{
-  text-decoration: none;
-  color: white;
+#copyright{
+  font-size: 11px;
 }
