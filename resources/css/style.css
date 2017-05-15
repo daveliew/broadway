@@ -3,9 +3,7 @@ html{
   font-family: Helvetica, sans-serif;
 }
 
-li,
 a{
-  list-style-type: none;
   color: white;
   font-size: 18px;
 }
